@@ -27,7 +27,6 @@ The software will also display the crimes and criminals area wise or police stat
 <b>TECHNOLOGY USED</b>
 1. JAVA
 2. JDBC
-3. SPRING TOOL SUITE
 4. MySQL
 ----------------------------------------------------------------------------------------------------------
 
