@@ -1,7 +1,6 @@
 # CRIME INFORMATION MANAGEMENT SYSTEM / RISK MANAGEMENT SYSTEM
 
-<img src="https://![Uploading CRIME COUNTER.png…]()
-">
+<img src="https://mavenprofserv.com/wp-content/uploads/2021/10/Risk-Management.jpg">
 
 The main aim of this system is to maintain and manage the detail information of the crime happened in  an  area under a particular police station. This software will be used by the police officials in the Police station. Following information will be stored in this software-
         1. Date and Place of the Crime.
@@ -34,10 +33,11 @@ The software will also display the crimes and criminals area wise or police stat
 
                                   ER DIAGRAM 
 
-<img src="https://github.com/fehmida99/new-berry-436/blob/main/images/diag1.png?raw=true">
+<img src="https://github.com/ankushsin/winged-circle-872/blob/main/images/diag1.png?raw=true">
 
 
 ----------------------------------------------------------------------------------------------------------
                                  FLOW DIAGRAM 
 
-<img src="https://github.com/fehmida99/new-berry-436/blob/main/images/Untitled%20Diagram.drawio%20(2).png?raw=true">
+<img src="https://github.com/ankushsin/winged-circle-872/blob/main/images/Untitled%20Diagram.drawio%20(2).png?raw=true">
+
