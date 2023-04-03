@@ -40,5 +40,5 @@ The software will also display the crimes and criminals area wise or police stat
 ----------------------------------------------------------------------------------------------------------
                                  FLOW DIAGRAM 
 
-<img src="https://github.com//blob/main/images/Untitled%20Diagram.drawio%20(2).png?raw=true">
+<img src="https://github.com/fehmida99/new-berry-436/blob/main/Unit_05_JavaProject/new-berry-436/images/FLOW-CHART-CRIME-COUNTER.PNG">
 
