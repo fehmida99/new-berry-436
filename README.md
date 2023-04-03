@@ -1,6 +1,6 @@
 # CRIME INFORMATION MANAGEMENT SYSTEM 
 
-<!-- [![MasterHead](https://![CRIME COUNTER](https://user-images.githubusercontent.com/112754704/229331556-365289d4-881d-4906-9e40-d7c0141b9fb9.png))] -->
+*************************************
 
 <img src="https://user-images.githubusercontent.com/112754704/229331556-365289d4-881d-4906-9e40-d7c0141b9fb9.png">
 
@@ -34,7 +34,7 @@ The software will also display the crimes and criminals area wise or police stat
 
                                   ER DIAGRAM 
 
-<img src="![drawSQL-er-diagram-export-2023-04-03](https://user-images.githubusercontent.com/112754704/229391827-c443fc0d-6691-4318-8656-d83033e426d1.png)
+<img src="https://user-images.githubusercontent.com/112754704/229391827-c443fc0d-6691-4318-8656-d83033e426d1.png
 ">
 
 
