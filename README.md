@@ -34,8 +34,7 @@ The software will also display the crimes and criminals area wise or police stat
 
                                   ER DIAGRAM 
 
-<img src="https://user-images.githubusercontent.com/112754704/229391827-c443fc0d-6691-4318-8656-d83033e426d1.png
-">
+<img src=https://github.com/fehmida99/new-berry-436/blob/main/Unit_05_JavaProject/new-berry-436/images/ER-Diagram.png>
 
 
 ----------------------------------------------------------------------------------------------------------
