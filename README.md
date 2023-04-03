@@ -34,7 +34,7 @@ The software will also display the crimes and criminals area wise or police stat
 
                                   ER DIAGRAM 
 
-<img src="https://github.com//blob/main/images/diag1.png?raw=true">
+<img src="https://drawsql.app/teams/shark-3/diagrams/er-diagram">
 
 
 ----------------------------------------------------------------------------------------------------------
